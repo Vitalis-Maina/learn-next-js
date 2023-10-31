@@ -1,6 +1,6 @@
 ## Next.js App Router Course - Starter
 
-![Dashboard UI](./public/d@sh.PNG)
+![Dashboard UI](./public/hero-desktop.png)
 
 
 
