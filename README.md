@@ -1,6 +1,8 @@
 ## Next.js App Router Course - Starter
 
-<img src="/public/d@sh.png" width="50%" height="50%">
+![Dashboard UI](./public/d@sh.png)
+
+
 
 This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
 
